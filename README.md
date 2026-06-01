@@ -48,7 +48,7 @@ The dataset contains ride booking information including:
 
 ## 📊 Dashboard Preview
 
-![OLA Dashboard](ADD_YOUR_GIF_OR_SCREENSHOT_LINK_HERE)
+![Dashboard 1](./images/dashboard1.png)
 
 ---
 
