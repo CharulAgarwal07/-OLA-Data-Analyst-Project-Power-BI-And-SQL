@@ -143,19 +143,12 @@ Promote digital payment methods and optimize pricing during peak demand periods.
 ## 📂 Repository Structure
 
 ```text
-OLA-Data-Analyst-Project/
+-OLA-Data-Analyst-Project-Power-BI-And-SQL/
 │
-├── Dataset/
-│   └── Bookings.csv
-│
-├── SQL/
-│   └── OLA_SQL_Analysis.sql
-│
-├── PowerBI/
-│   └── OLA_Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard Screenshots
+|── demo.gif
+├── Bookings.csv
+├── Ola DA Project SQL.sql
+├── Ola DA Project.pbix
 │
 └── README.md
 ```
